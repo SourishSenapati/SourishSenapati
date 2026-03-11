@@ -4,7 +4,7 @@
   <img src="https://github.com/SourishSenapati/SourishSenapati/blob/main/banner.png?raw=true" width="100%" alt="Sourish Senapati — Chemical Engineering, AI Systems, Industrial Robotics" />
 </div>
 
-<br>
+
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Seventeen repositories worth of evidence. A Techfest finalist medal from IIT Bom
 <div align="center">
 
 | | |
-|:---:|:---|
+| :---: | :--- |
 | [![Techfest](https://img.shields.io/badge/IIT_Bombay_Techfest-AI_Finalist_2025-gold?style=flat-square&logo=trophy&logoColor=black)](https://github.com/SourishSenapati/neuroprep-ai) | **AI Interviewer Competition — Finalist** |
 | [![Siemens](https://img.shields.io/badge/Siemens-Campus_Connect_Ambassador-009999?style=flat-square&logo=siemens&logoColor=white)](https://www.siemens.com) | **Confirmed active member — Industry 4.0 engagement** |
 | [![AsianPaints](https://img.shields.io/badge/Asian_Paints-Alchemy_Campus_Ambassador-E63946?style=flat-square&logoColor=white)](https://www.asianpaints.com) | **Alchemy Campus Ambassador** |
@@ -66,12 +66,12 @@ Seventeen repositories worth of evidence. A Techfest finalist medal from IIT Bom
 
 </div>
 
-<br>
+
 
 <div align="center">
 
 | Scientific ML | Process Engineering | Industrial Systems | Robotics |
-|:---:|:---:|:---:|:---:|
+| :---: | :---: | :---: | :---: |
 | PINNs · SINDy | Peng-Robinson EOS | OPC-UA · SCADA | ROS2 · MAVROS |
 | LangGraph · GraphRAG | Rachford-Rice · Gibbs | ZeroMQ · SHA-256 WORM | ArduPilot · Gazebo SITL |
 | TensorRT FP16/ONNX | Monod kinetics | Asyncua server | OpenCV CUDA · APF |
@@ -81,8 +81,6 @@ Seventeen repositories worth of evidence. A Techfest finalist medal from IIT Bom
 ---
 
 ## Projects
-
-<br>
 
 ### VectorSense — Autonomous Industrial Gas Leak Detection
 
@@ -234,7 +232,7 @@ Autonomous inventory orchestration for the $900B Meetings, Incentives, Conferenc
 ### Supporting Work
 
 | Project | Description |
-|---|---|
+| --- | --- |
 | [ForkFleet](https://github.com/SourishSenapati/ForkFleet) | 3D GitHub ecosystem navigator — live data, Three.js, TypeScript |
 | [ROS2Project2-SURETRUST](https://github.com/SourishSenapati/ROS2Project2-SURETRUST) | SURE Trust GS Robotics certified — ROS2 foundations, Tinkercad circuit prototyping |
 
