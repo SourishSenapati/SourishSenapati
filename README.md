@@ -1,234 +1,242 @@
-<div align="center">
-  <img src="https://github.com/SourishSenapati/SourishSenapati/blob/main/sourish_github_banner_1773235042701.png?raw=true" width="100%" alt="Sourish Senapati – Chemical Engineering, AI, Industrial Robotics, Digital Twins" />
-</div>
-
-# Sourish Senapati
+<!-- SOURISH SENAPATI | Chemical Engineering × AI × Industrial Robotics -->
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Chemical+Engineering+%40+Jadavpur+University;IIT+Bombay+Techfest+AI+Finalist;Siemens+Campus+Connect+Ambassador;PINNs+%7C+OPC-UA+%7C+ROS2+%7C+Digital+Twins;Building+Systems+That+Enforce+Physics)](https://github.com/SourishSenapati)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourish-senapati-0aba921b1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sourishs.chem.ug@jadavpuruniversity.in)
-[![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6D00?style=flat-square&logo=autodesk&logoColor=white)](https://www.tinkercad.com/users/SourishSenapati)
-[![Profile Views](https://komarev.com/ghpvc/?username=SourishSenapati&style=flat-square&color=6e40c9&label=Profile+Views)](https://github.com/SourishSenapati)
-[![GitHub](https://img.shields.io/badge/23_Public_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SourishSenapati?tab=repositories)
-
-**Chemical Engineering Undergraduate — Jadavpur University (2027)**
-**Siemens Campus Connect Ambassador | IIT Bombay Techfest Finalist**
-
+  <img src="https://github.com/SourishSenapati/SourishSenapati/blob/main/banner.png?raw=true" width="100%" alt="Sourish Senapati — Chemical Engineering, AI Systems, Industrial Robotics" />
 </div>
 
----
-
-## Who I Am
-
-I build systems where chemical physics and machine intelligence are not separate layers — they are the same layer. My code does not approximate the physics. It enforces it.
-
-In three years I have shipped: an autonomous industrial gas detection swarm with OPC-UA SCADA integration, an AI-driven battery recycling digital twin selected for national competition, an interview simulator that reached the finalist stage at IIT Bombay Techfest, a market-pricing engine for perishable assets using biological degradation thermodynamics, a solar window cleantech prototype using carbon quantum dots from agricultural waste, and a plant biomonitoring system that converts leaf tissue data into carbon credit valuations.
-
-**277 GitHub contributions** in the last year. **23 public repositories**. Every serious one is Apache-2.0 licensed and documented.
-
----
-
-## Credentials at a Glance
-
-- **IIT Bombay Techfest — AI Interviewer Competition Finalist** (NeuroPrep AI, 2025)
-- **Siemens Campus Connect Student Ambassador** — confirmed, active
-- **Indian Institute of Chemical Engineers (IIChE)** — Student Member
-- **SURE Trust GS Robotics** — Certified Prototyper
-- **Asian Paints** — Campus Ambassador
-- **277 GitHub contributions** in 2025–2026 across **23 repositories**
-
----
-
-## Tech Arsenal
+<br>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,typescript,react,nextjs,docker,postgres,redis&perline=10)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,linux,vscode,matlab,html,js,css,flask,sqlite&perline=10)](https://skillicons.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Chemical+Engineer+who+writes+production+code.;PINNs+%7C+OPC-UA+%7C+ROS2+%7C+Digital+Twins;IIT+Bombay+Techfest+AI+Finalist.;Siemens+Campus+Connect+Ambassador.;Building+systems+that+enforce+physics.)](https://github.com/SourishSenapati)
 
 </div>
 
-| Domain | Capabilities |
-| --- | --- |
-| Scientific ML | PINNs, SINDy, LangGraph multi-agent, GraphRAG, TensorRT FP16/ONNX |
-| Deep Learning | PyTorch, YOLOv8, Vision Transformers, GNNs, MARL, CapsNet, WebNN |
-| Process Engineering | Peng-Robinson EOS, Rachford-Rice solver, Gibbs stability, Monod kinetics |
-| Industrial Protocols | OPC-UA (asyncua server), ZeroMQ, SCADA integration, SHA-256 WORM ledger |
-| Robotics | ROS2 Humble, MAVROS, ArduPilot, Gazebo SITL, OpenCV CUDA, CUDA-APF |
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/_%40sourishsenapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourish-senapati-0aba921b1)
+[![Email](https://img.shields.io/badge/_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourishs.chem.ug@jadavpuruniversity.in)
+[![Tinkercad](https://img.shields.io/badge/_Tinkercad-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.tinkercad.com/users/SourishSenapati)
+[![GitHub](https://img.shields.io/badge/_23_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SourishSenapati?tab=repositories)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SourishSenapati&style=flat-square&color=00D4FF&label=Profile+Views)
+&nbsp;&nbsp;
+**Chemical Engineering @ Jadavpur University (2027)**
+
+</div>
 
 ---
 
-## Signature Projects
+## The Short Version
 
-### VectorSense — Autonomous Industrial Gas Plume Detection Swarm
+I am a third-year chemical engineering student at Jadavpur University. My academic record is not exceptional. What I do have is a pattern of building things — real things, not notebooks — that sit at the boundary between physical science and machine intelligence.
 
-**Repository:** [github.com/SourishSenapati/VECTORSENSE](https://github.com/SourishSenapati/VECTORSENSE)
+The distinction matters. A lot of ML applied to engineering treats the physics as context, not constraint. My work does the opposite. When I trained a PINN for gas plume detection, the network had to satisfy the Navier-Stokes residual on every forward pass. When I built a bioreactor control agent, it operated on actual Monod kinetics and Arrhenius penalty functions. The physics is not decoration. It is the architecture.
 
-> "General purpose drone optimised for different sensing tasks in the chemical industry."
-
-The problem with industrial gas detection is not sensitivity — it is specificity. Conventional sensors cannot distinguish a genuine leak from sensor drift, humidity, or background VOCs. The result is nuisance alarm rates so high that operators learn to ignore them. That is not a safety system. That is theatre.
-
-VectorSense replaces threshold-based alerting with a **Physics-Informed Neural Network** trained simultaneously as a supervised regression model and as a residual-minimiser against the Navier-Stokes advection-diffusion PDE. The network cannot produce a physically inconsistent plume model. That constraint alone eliminates the majority of false positive classes.
-
-**Architecture — Brain-Stem Split:** The Stem executes deterministic low-latency flight control via ROS2/MAVROS. The Brain runs PINN inference across three mission modes — gas tomography, thermal profiling, acoustic diagnostics — with mode-switching over ZeroMQ pub-sub. The trained model is exported to ONNX FP16 for edge hardware and TensorRT for base station GPU inference.
-
-**SINDy Calibration:** Sparse identification of nonlinear dynamics separates genuine chemical transients from environmental noise at the sensor level. Validated result: **85% reduction in false-positive alarm rate** versus threshold baselines.
-
-**OPC-UA Industrial Gateway:** Translates sub-20 ms ZeroMQ telemetry into typed OPC-UA node updates for DCS/SCADA integration. Target translation latency: under 5 ms. Exposes a `Hazard_Mitigation` object enabling closed-loop Emergency Isolation Valve actuation from the SCADA layer.
-
-**CUDA-APF Swarm Coordinator:** Artificial Potential Fields on PyTorch GPU tensors. Full 3-drone velocity resolution: under 2 ms on RTX 4050.
-
-**WORM Audit Ledger:** SHA-256 Merkle chain in SQLite. Mathematical proof of data integrity for industrial safety inspections. Write overhead per entry: sub-0.1 ms.
-
-**Seven ROS2 packages:** `vectorsense_intelligence`, `vectorsense_safety`, `vectorsense_vision`, `vectorsense_bridge`, `vectorsense_description`, `vectorsense_bringup`, `vectorsense_gazebo`.
+Seventeen repositories worth of evidence. A Techfest finalist medal from IIT Bombay. A live Siemens Ambassador credential. Here is what I have been building.
 
 ---
 
-### ENTRODYN-AERIAL — Physics-Informed Autonomous Drones for Gas Leak Localisation
+## Credentials
 
-**Repository:** [github.com/SourishSenapati/ENTRODYN-AERIAL](https://github.com/SourishSenapati/ENTRODYN-AERIAL)
+<div align="center">
 
-Focused research vehicle for the gas leak localisation problem using thermodynamic entropy gradients and PINN-constrained trajectory planning for precise source localisation in cluttered environments. The scientific core from which VectorSense's sensing architecture was derived.
+| | |
+|:---:|:---|
+| [![Techfest](https://img.shields.io/badge/IIT_Bombay_Techfest-AI_Finalist_2025-gold?style=flat-square&logo=trophy&logoColor=black)](https://github.com/SourishSenapati/neuroprep-ai) | **AI Interviewer Competition — Finalist** |
+| [![Siemens](https://img.shields.io/badge/Siemens-Campus_Connect_Ambassador-009999?style=flat-square&logo=siemens&logoColor=white)](https://www.siemens.com) | **Confirmed active member — Industry 4.0 engagement** |
+| [![AsianPaints](https://img.shields.io/badge/Asian_Paints-Alchemy_Campus_Ambassador-E63946?style=flat-square&logoColor=white)](https://www.asianpaints.com) | **Alchemy Campus Ambassador** |
+| [![IIChE](https://img.shields.io/badge/IIChE-Student_Member-1D3461?style=flat-square&logoColor=white)](https://www.iiche.org.in) | **Indian Institute of Chemical Engineers** |
+| [![SURE](https://img.shields.io/badge/SURE_Trust-Certified_Robotics_Prototyper-4CAF50?style=flat-square&logo=ros&logoColor=white)](https://github.com/SourishSenapati/ROS2Project2-SURETRUST) | **GS Robotics Programme** |
 
----
-
-### RADORDENA / InnoSortRecycle — AI-Integrated Bio-Hydrometallurgical Battery Recycling
-
-**Repository:** [github.com/SourishSenapati/InnoSortRecycle](https://github.com/SourishSenapati/InnoSortRecycle)
-
-> "India's First AI-Integrated Bio-Hydrometallurgical Battery Recycling Network."
-
-Global battery recycling is stuck at 5%. Pyrometallurgy emits 4.2 tonnes of CO₂ per tonne treated. India absorbs 1.6 million tonnes of EV battery waste by 2030. This is not a sustainability problem. It is a strategic materials crisis.
-
-RADORDENA replaces the smelter with a precision **Sort-Bioleach-Recover** pipeline.
-
-**SORT-01 Vision Agent:** YOLOv8-Nano with a hyperspectral head, Kubelka-Munk reflectance framework. 94.2% Top-1, 99.1% Top-5 accuracy.
-
-**BIO-01 Process Agent:** *Acidithiobacillus ferrooxidans* bio-oxidation. PPO RL agent holds pH at 1.8 and temperature at 30°C with 50 ms control latency.
-
-**Electro-Selective Recovery:** Li₂CO₃, Co(OH)₂, NiSO₄, MnCO₃. Financial model confirms >25% IRR. 2.5 tonnes CO₂ avoided per tonne processed.
-
-**Targets:** >95% critical mineral recovery. 30% lower operating cost than pyrometallurgy. 128 GWh Indian EV battery market by 2030.
+</div>
 
 ---
 
-### NeuroPrep AI — Adaptive AI Interview Simulator
+## Tech Stack
 
-[![IIT Bombay Techfest Finalist](https://img.shields.io/badge/IIT_Bombay_Techfest-AI_Interviewer_Finalist-gold?style=flat-square&logo=rocket&logoColor=white)](https://github.com/SourishSenapati/neuroprep-ai)
+<div align="center">
 
-**Repository:** [github.com/SourishSenapati/neuroprep-ai](https://github.com/SourishSenapati/neuroprep-ai)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,cpp,typescript,react,nextjs,docker,postgres,neo4j,linux&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,git,vscode,matlab,redis,html,js,css,flask,sqlite&perline=10)](https://skillicons.dev)
 
-> "224M+ Questions — Advanced AI Interview Platform with PWA Mobile Support."
+</div>
 
-Selected as a **Finalist at IIT Bombay Techfest** — one of Asia's largest technical festivals.
+<br>
 
-**NeuroSync Biometric Engine:** MediaPipe FaceMesh extracts micro-expressions from 478 facial landmarks. WebNN-accelerated CapsNet classifies anxiety state. Closed-loop difficulty adaptation in real time.
+<div align="center">
 
-**Scale:** 224M+ questions generated. 12 disciplines. 8 seniority levels. 4 AI personas. GPT-4o / Claude 3.5 / Gemini Pro cascade. PWA mobile. Stack: Next.js 14, TypeScript, PostgreSQL, Docker, Vercel.
+| Scientific ML | Process Engineering | Industrial Systems | Robotics |
+|:---:|:---:|:---:|:---:|
+| PINNs · SINDy | Peng-Robinson EOS | OPC-UA · SCADA | ROS2 · MAVROS |
+| LangGraph · GraphRAG | Rachford-Rice · Gibbs | ZeroMQ · SHA-256 WORM | ArduPilot · Gazebo SITL |
+| TensorRT FP16/ONNX | Monod kinetics | Asyncua server | OpenCV CUDA · APF |
 
----
-
-### Kinexica — Predictive Market-Maker for Perishable Assets
-
-**Repository:** [github.com/SourishSenapati/Kinexica](https://github.com/SourishSenapati/Kinexica)
-
-> "Translates invisible biological degradation into actionable market intelligence."
-
-Markets systematically misprice perishable goods because biological degradation is invisible until it is too late. Kinexica fuses edge-deployed sensors with thermodynamic spoilage models to compute real-time fair value before conventional quality inspection detects decline. The gap between perceived and actual quality is the signal. **2 stars, 1 fork.**
+</div>
 
 ---
 
-### Team-Glass2Grid — Transparent Solar Windows from Agricultural Waste
+## Projects
 
-**Repository:** [github.com/SourishSenapati/Team-Glass2Grid](https://github.com/SourishSenapati/Team-Glass2Grid)
+<br>
 
-Agricultural waste converted into **Carbon Quantum Dots** via hydrothermal synthesis. Dots embedded in transparent glass as a Luminescent Solar Concentrator. Windows absorb UV, re-emit as near-infrared at panel edges where photovoltaic strips generate electricity — without blocking visible light. Zero-opacity commercial windows that generate power. Tags: cleantech, circular-economy, quantum-dots, renewable-energy.
+### VectorSense — Autonomous Industrial Gas Leak Detection
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SourishSenapati/VECTORSENSE)
+[![ROS2](https://img.shields.io/badge/ROS2_Humble-22314E?style=flat-square&logo=ros&logoColor=white)](https://github.com/SourishSenapati/VECTORSENSE)
+[![OPC--UA](https://img.shields.io/badge/OPC--UA_Gateway-009999?style=flat-square&logoColor=white)](https://github.com/SourishSenapati/VECTORSENSE)
+[![Repo](https://img.shields.io/badge/Repo-VECTORSENSE-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/VECTORSENSE)
+
+The starting point for this project was frustration. Industrial gas detectors produce so many false positives that operators stop trusting them. That is a well-documented problem with a poorly-documented solution. My answer was to replace the threshold with physics.
+
+A Physics-Informed Neural Network trained against the Navier-Stokes advection-diffusion residual governs the plume model. The network learns from data but cannot produce a solution that violates the governing PDE. That constraint, on its own, eliminates most false positive classes before any secondary filtering. Combined with SINDy-based sensor drift separation, the validated false-positive reduction is **85%**.
+
+The system is built around what I call the Brain-Stem Split. The Stem handles deterministic low-latency flight control over ROS2/MAVROS. The Brain — PINN inference, ZeroMQ message routing, OPC-UA node updates — runs asynchronously and feeds decisions back through a typed industrial interface that SCADA systems can consume directly. The OPC-UA gateway exposes a `Hazard_Mitigation` object that enables closed-loop Emergency Isolation Valve actuation from the plant control layer. Translation latency: under 5 ms per update.
+
+Multi-drone coordination runs CUDA-accelerated Artificial Potential Fields on PyTorch tensors. Three-drone velocity resolution: under 2 ms on an RTX 4050. A SHA-256 Merkle-chain WORM ledger in SQLite records every telemetry event with cryptographic linkage to its predecessor — producing mathematical proof of data integrity for safety audits at under 0.1 ms write overhead per entry.
+
+Seven ROS2 packages. Gazebo SITL environment. ONNX FP16 export for edge hardware. TensorRT for base station inference.
 
 ---
 
-### GreenH2-ML-DT — Machine Learning for Green Hydrogen Catalyst Optimisation
+### ENTRODYN-AERIAL — Gas Leak Localisation via Entropy Gradients
 
-**Repository:** [github.com/SourishSenapati/GreenH2-ML-DT-Revision](https://github.com/SourishSenapati/GreenH2-ML-DT-Revision)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SourishSenapati/ENTRODYN-AERIAL)
+[![Repo](https://img.shields.io/badge/Repo-ENTRODYN--AERIAL-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/ENTRODYN-AERIAL)
 
-Ensemble ML for PEM electrolyser catalyst efficiency prediction, predictive maintenance, and stack-level fault detection. Academic research project at Jadavpur University (Senapati and Biswash). Directly relevant to Siemens Energy's hydrogen technology portfolio.
-
----
-
-### Morphaeon — PINNs + Graph Neural Networks + Multi-Agent Reinforcement Learning
-
-**Repository:** [github.com/SourishSenapati/Morphaeon](https://github.com/SourishSenapati/Morphaeon)
-
-Unified research framework integrating Physics-Informed Neural Networks, Graph Neural Networks, and Multi-Agent Reinforcement Learning. GNNs encode relational structure between physical agents. PINNs enforce physical consistency on each agent's forward model. MARL coordinates emergent collective behaviour. The architectural test bench from which production systems inherit their theoretical foundations.
+The science underneath VectorSense. Thermodynamic entropy gradients drive PINN-constrained trajectory planning for source localisation in cluttered environments. Built as a focused research vehicle before the full system was assembled.
 
 ---
 
-### ORDINAR — Autonomous GRN Discovery via SINDy and LangGraph
+### RADORDENA / InnoSortRecycle — Battery Recycling Digital Twin
 
-**Repository:** [github.com/SourishSenapati/ORDINAR](https://github.com/SourishSenapati/ORDINAR)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SourishSenapati/InnoSortRecycle)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/SourishSenapati/InnoSortRecycle)
+[![Repo](https://img.shields.io/badge/Repo-InnoSortRecycle-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/InnoSortRecycle)
 
-> "Autonomous 5-Sigma Agentic Engine for Mechanistic Inference in Spatial Transcriptomics."
+India's EV battery waste problem arrives at 1.6 million tonnes by 2030. The incumbent solution — pyrometallurgical smelting — emits 4.2 tonnes of CO₂ per tonne of input and cannot selectively recover lithium from the mix. RADORDENA replaces it with a Sort-Bioleach-Recover pipeline.
 
-SINDy sparse identification infers governing ODEs from gene expression time series. LangGraph swarm (`DataArchitect`, `Theorist`, `Critic`) debates each regulatory link for biological plausibility. Tags: systems-biology, PINN, SINDy, digital-twin, spatial-transcriptomics, GPU-acceleration.
+Three agents in sequence. SORT-01 is a YOLOv8-Nano with a hyperspectral head trained on NMC, LFP, and LCO spectral signatures using the Kubelka-Munk framework. It achieves 94.2% Top-1 accuracy and routes feedstock before a gram of contaminant reaches the bioleaching reactor. BIO-01 is a PPO reinforcement learning agent that manages *Acidithiobacillus ferrooxidans* bacterial cultures — holding pH at 1.8 and temperature at 30°C with 50 ms feedback latency, because above 35°C the Arrhenius penalty collapses bacterial activity by 40%. The electro-recovery stage precipitates Li₂CO₃, Co(OH)₂, NiSO₄, and MnCO₃ sequentially.
+
+Financial model confirms greater than 25% IRR. Carbon credit revenue: 2.5 tonnes CO₂ avoided per tonne processed, calculated against the pyrometallurgy baseline.
+
+---
+
+### NeuroPrep AI — Adaptive Interview Simulator
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/SourishSenapati/neuroprep-ai)
+[![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)](https://github.com/SourishSenapati/neuroprep-ai)
+[![IIT Bombay Techfest Finalist](https://img.shields.io/badge/IIT_Bombay_Techfest-AI_Finalist-gold?style=flat-square&logo=star&logoColor=black)](https://github.com/SourishSenapati/neuroprep-ai)
+[![Repo](https://img.shields.io/badge/Repo-neuroprep--ai-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/neuroprep-ai)
+
+Finalist at IIT Bombay Techfest — one of Asia's largest engineering festivals. 224 million questions generated. The system reads a candidate's biometric stress signal from their webcam and adapts the interview in real time.
+
+MediaPipe FaceMesh extracts micro-expression features from 478 facial landmarks — eyebrow displacement, jaw tension, pupil dilation — and a WebNN-accelerated CapsNet classifies anxiety state. Fitbit heart rate via Web Bluetooth augments the estimate with HRV data. High stress shifts the AI toward scaffolded Socratic questions. Low stress brings adversarial probing with explicit derivation requirements.
+
+GPT-4o leads the provider cascade. Claude 3.5 Sonnet is secondary. Gemini Pro third. If all three fail, rule-based fallbacks keep the session running. Response analysis produces: EQ score, AI-text detection flag, technical accuracy score, and a Neural Resilience Index percentile.
+
+Twelve engineering disciplines. Eight seniority levels. Four AI personas. PWA mobile support. Stack: Next.js 14, TypeScript, PostgreSQL, Docker, Vercel.
+
+---
+
+### Kinexica — Perishable Asset Market Intelligence
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SourishSenapati/Kinexica)
+[![Stars](https://img.shields.io/github/stars/SourishSenapati/Kinexica?style=flat-square&color=00D4FF)](https://github.com/SourishSenapati/Kinexica)
+[![Repo](https://img.shields.io/badge/Repo-Kinexica-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/Kinexica)
+
+The question that started this: if biological degradation follows predictable thermodynamic kinetics, why is the market price of a perishable good not updated continuously to reflect it? The answer is that measurement has always been too slow and too coarse. Kinexica uses edge-deployed sensors fused with spoilage models to compute real-time asset valuations before conventional quality inspection can detect any change. The gap between the market price and the model price is the trade signal.
+
+---
+
+### Team-Glass2Grid — Solar Windows from Agricultural Waste
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/SourishSenapati/Team-Glass2Grid)
+[![Repo](https://img.shields.io/badge/Repo-Team--Glass2Grid-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/Team-Glass2Grid)
+
+Lignocellulosic agricultural waste converted to Carbon Quantum Dots via hydrothermal synthesis. The dots are embedded in a Luminescent Solar Concentrator glass matrix — absorbing UV, re-emitting as near-infrared at panel edges where photovoltaic strips convert it to power. Fully transparent to visible light. ESG tracking across the full supply chain closes the circular economy loop.
+
+---
+
+### GreenH2-ML-DT — ML for Green Hydrogen Catalyst Efficiency
+
+[![HTML](https://img.shields.io/badge/Research-Apache_2.0-blue?style=flat-square&logo=bookstack&logoColor=white)](https://github.com/SourishSenapati/GreenH2-ML-DT-Revision)
+[![Repo](https://img.shields.io/badge/Repo-GreenH2--ML--DT-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/GreenH2-ML-DT-Revision)
+
+Formal academic research at Jadavpur University (Senapati and Biswash). Ensemble ML for PEM electrolyser catalyst efficiency prediction. The ALTFS framework detects thermal runaway, membrane fouling, and surface poisoning before they cause downtime. Directly relevant to Siemens Energy's hydrogen portfolio.
+
+---
+
+### Morphaeon — Unified PINNs + GNNs + MARL Framework
+
+[![Repo](https://img.shields.io/badge/Repo-Morphaeon-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/Morphaeon)
+
+An experimental architecture integrating Physics-Informed Neural Networks, Graph Neural Networks, and Multi-Agent Reinforcement Learning. GNNs encode relational structure between physical agents. PINNs enforce physical consistency on each forward model. MARL coordinates collective behaviour. The theoretical foundation from which production systems inherit their design.
+
+---
+
+### ORDINAR — Autonomous Gene Regulatory Network Discovery
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SourishSenapati/ORDINAR)
+[![Repo](https://img.shields.io/badge/Repo-ORDINAR-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/ORDINAR)
+
+SINDy sparse inference extracts governing ODEs directly from gene expression time series. A LangGraph swarm — DataArchitect, Theorist, Critic — debates each proposed regulatory link against biological priors before it enters the network. The result is an interpretable, mechanistically grounded GRN rather than a correlation matrix. Tags: systems-biology, PINN, SINDy, spatial-transcriptomics.
 
 ---
 
 ### NexusQ — Academic Intelligence Engine
 
-**Repository:** [github.com/SourishSenapati/nexusq-academic](https://github.com/SourishSenapati/nexusq-academic)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/SourishSenapati/nexusq-academic)
+[![Repo](https://img.shields.io/badge/Repo-nexusq--academic-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/nexusq-academic)
 
-Neo4j knowledge graph of engineering curriculum, queried via GraphRAG. A `SwarmJudge` — `Historian`, `Psychologist`, `Skeptic` — produces weighted consensus exam probability scores: `P_final = Σ(P_i × w_i) / Σ(w_i)`. Topics above 60% consensus flagged as high-priority.
+Neo4j knowledge graph of engineering curriculum queried via GraphRAG. Three adversarial agents — Historian, Psychologist, Skeptic — produce weighted consensus exam probability scores. Topics above 60% consensus are flagged. The SwarmJudge computes: `P_final = Σ(P_i × w_i) / Σ(w_i)`.
 
 ---
 
-### CODA-NS — Neuro-Symbolic Clinical Trial Data Agent
+### CODA-NS — Neuro-Symbolic Agent for Clinical Trials
 
-**Repository:** [github.com/SourishSenapati/NESTChemicalJU---CODA-NS](https://github.com/SourishSenapati/NESTChemicalJU---CODA-NS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SourishSenapati/NESTChemicalJU---CODA-NS)
+[![Repo](https://img.shields.io/badge/Repo-CODA--NS-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/NESTChemicalJU---CODA-NS)
 
-FDA-aligned safety rules enforced deterministically by a Python logic kernel, fused with learned pattern recognition across heterogeneous EDC and laboratory data sources. In regulated domains, safety-critical logic must be auditable and explicit — not absorbed into a weight matrix.
+FDA-aligned safety rules enforced via a deterministic Python logic kernel. Pattern recognition across heterogeneous EDC and lab sources is learned. Safety-critical logic is auditable and explicit — never absorbed into weights.
 
 ---
 
 ### AlcheMeal-AI — Multi-Agent Food Science System
 
-**Repository:** [github.com/SourishSenapati/AlcheMeal-AI](https://github.com/SourishSenapati/AlcheMeal-AI)
+[![Repo](https://img.shields.io/badge/Repo-AlcheMeal--AI-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/AlcheMeal-AI)
 
-Three-agent system: **Culinary Chemist Agent** applies Maillard reaction thermodynamics and enzymatic kinetics; **Process Engineer Agent** handles production logistics and scaling; **Market Oracle Agent** tracks ingredient pricing and supply chain volatility.
-
----
-
-### Integrated Foliar-Particulate Bioanalytics — Plant Biomonitoring Research
-
-**Repository:** [github.com/SourishSenapati/Integrated-Foliar-Particulate-Bioanalytics](https://github.com/SourishSenapati/Integrated-Foliar-Particulate-Bioanalytics)
-
-APTI field data paired with PINN-modelled atmospheric fluid dynamics for spatially resolved PM2.5/PM10 deposition maps. The **SylvaNode** module converts leaf tissue biomonitoring data into **Verified Carbon Credit (VCC) profitability analysis** — quantifying urban green infrastructure as a distributed biological monitoring and carbon accounting network. Tags: air-quality, biomonitoring, carbon-credits, particulate-matter.
+Three agents: Culinary Chemist (Maillard thermodynamics, enzymatic kinetics), Process Engineer (logistics and scaling), Market Oracle (ingredient pricing and supply chain volatility). Chemical engineering applied to food production at scale.
 
 ---
 
-### PROJECT-ANCILE — Autonomous Inventory Engine for Group Travel
+### Integrated Foliar-Particulate Bioanalytics
 
-**Repository:** [github.com/SourishSenapati/PROJECT-ANCILE](https://github.com/SourishSenapati/PROJECT-ANCILE)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SourishSenapati/Integrated-Foliar-Particulate-Bioanalytics)
+[![Repo](https://img.shields.io/badge/Repo-Foliar--Bioanalytics-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/Integrated-Foliar-Particulate-Bioanalytics)
 
-Autonomous inventory orchestration for the $900B MICE (Meetings, Incentives, Conferences, Exhibitions) economy. Dynamic microsite generation per event with real-time inventory management across accommodation, logistics, and venue components.
-
----
-
-### ForkFleet — 3D Open-Source Ecosystem Navigator
-
-**Repository:** [github.com/SourishSenapati/ForkFleet](https://github.com/SourishSenapati/ForkFleet)
-
-Live GitHub data rendered as interactive 3D graph with dynamic pan navigation. Stack: TypeScript, Three.js, Next.js.
+APTI field data paired with PINN-modelled atmospheric fluid dynamics for spatially resolved PM2.5/PM10 deposition mapping. The SylvaNode module converts leaf-tissue biomonitoring readings into Verified Carbon Credit profitability analysis — urban green infrastructure as a distributed, continuously-credited environmental asset. Tags: air-quality, biomonitoring, carbon-credits.
 
 ---
 
-### ROS2Project2-SURETRUST — Robotics Foundations
+### PROJECT-ANCILE — MICE Economy Inventory Engine
 
-**Repository:** [github.com/SourishSenapati/ROS2Project2-SURETRUST](https://github.com/SourishSenapati/ROS2Project2-SURETRUST)
+[![Repo](https://img.shields.io/badge/Repo-PROJECT--ANCILE-181717?style=flat-square&logo=github)](https://github.com/SourishSenapati/PROJECT-ANCILE)
 
-SURE Trust GS Robotics certified project. ROS2 nodes, topics, transforms, and services — foundational systems work underpinning the VectorSense architecture. Tinkercad circuit simulation for sensor interface prototyping.
+Autonomous inventory orchestration for the $900B Meetings, Incentives, Conferences, and Exhibitions economy. Per-event microsite generation with real-time management of accommodation, logistics, and venue components.
+
+---
+
+### Supporting Work
+
+| Project | Description |
+|---|---|
+| [ForkFleet](https://github.com/SourishSenapati/ForkFleet) | 3D GitHub ecosystem navigator — live data, Three.js, TypeScript |
+| [ROS2Project2-SURETRUST](https://github.com/SourishSenapati/ROS2Project2-SURETRUST) | SURE Trust GS Robotics certified — ROS2 foundations, Tinkercad circuit prototyping |
 
 ---
 
@@ -236,61 +244,48 @@ SURE Trust GS Robotics certified project. ROS2 nodes, topics, transforms, and se
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SourishSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/SourishSenapati)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SourishSenapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/SourishSenapati)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SourishSenapati&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SourishSenapati)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SourishSenapati&theme=tokyo-night&hide_border=true&area=true&area_color=00D4FF)](https://github.com/SourishSenapati)
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SourishSenapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourishSenapati&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SourishSenapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourishSenapati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourishSenapati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SourishSenapati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-## Recognition and Affiliations
+## What Is Being Built Right Now
 
-| | |
-| --- | --- |
-| IIT Bombay Techfest | Finalist — AI Interviewer Competition (NeuroPrep AI) |
-| Siemens Campus Connect | Confirmed Student Ambassador — active membership |
-| Indian Institute of Chemical Engineers (IIChE) | Student Member |
-| SURE Trust (GS Robotics) | Certified Robotics Prototyper |
-| Asian Paints | Campus Ambassador |
-| Tinkercad (Autodesk) | Active — [tinkercad.com/users/SourishSenapati](https://www.tinkercad.com/users/SourishSenapati) |
-| Jadavpur University | Chemical Engineering Undergraduate (2027) |
+**VectorSense — hardware-in-the-loop.** Running full ROS2 orchestration in Gazebo SITL to validate PINN inference latencies, APF swarm coordination, and OPC-UA round-trip times under realistic RF noise. The goal is physical deployment readiness, not simulation performance.
 
----
+**Morphaeon — publishable framework.** Extending it toward a unified formalism where any multi-agent physical system — chemical plant, power grid, logistics network — can be modelled in the same architecture. PINNs for physical consistency, GNNs for relational structure, MARL for collective control.
 
-## What I Am Building Right Now
+**SylvaNode — carbon credit API.** Moving from profitability modelling to a live API that converts APTI sensor readings into automated VCC issuance. Urban trees as continuously-priced environmental assets.
 
-**VectorSense — Hardware-in-the-Loop Validation:** Full ROS2 package orchestration in Gazebo SITL with MAVROS ArduPilot. Testing PINN inference, APF swarm coordination, and OPC-UA gateway latency under realistic electromagnetic noise. Goal: physical deployment readiness.
-
-**Morphaeon — Unified Physics-Constrained MARL Framework:** Extending toward a published, reusable framework where any multi-agent physical problem — chemical plant, power grid, logistics network — fits the same formalism.
-
-**PINN Surrogates as Real-Time Process Observers:** Investigating whether PINN surrogates can replace first-principles ODE solvers in the inner loop of model predictive control — preserving physical interpretability while cutting latency by two orders of magnitude.
-
-**SylvaNode — Carbon Credit Commercialisation API:** Moving from profitability modelling to a deployable API that converts live APTI sensor feeds into automated carbon credit issuance. Urban green infrastructure as a continuously-credited environmental asset.
-
-**GreenH2 Research — Publication Track:** Tightening predictive maintenance models against real PEM electrolyser operational datasets. Target: peer-reviewed publication.
+**GreenH2 — publication track.** Tightening predictive maintenance model accuracy against real PEM electrolyser operational benchmarks. Target: peer-reviewed publication.
 
 ---
 
 <div align="center">
 
-*The pattern across every project here is the same: domain knowledge converted into working software.*
-*Not proof-of-concept notebooks. Not reproduced tutorials.*
-*Systems that make decisions, enforce physical law, and are either deployed or competition-validated.*
-
-**If you are reading this and thinking about whether to reach out — you should.**
+The work here is not a portfolio. It is a track record.
+Every project started with a problem that did not have a good solution and ended with something that runs.
+If that is the kind of builder you are looking for — reach out.
 
 </div>
