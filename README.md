@@ -118,7 +118,7 @@ RADORDENA replaces the smelter with a precision **Sort-Bioleach-Recover** pipeli
 
 ### NeuroPrep AI — Adaptive AI Interview Simulator
 
-**IIT Bombay Techfest AI Interviewer Competition — Finalist**
+[![IIT Bombay Techfest Finalist](https://img.shields.io/badge/IIT_Bombay_Techfest-AI_Interviewer_Finalist-gold?style=flat-square&logo=rocket&logoColor=white)](https://github.com/SourishSenapati/neuroprep-ai)
 
 **Repository:** [github.com/SourishSenapati/neuroprep-ai](https://github.com/SourishSenapati/neuroprep-ai)
 
